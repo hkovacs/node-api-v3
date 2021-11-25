@@ -2,3 +2,4 @@
 > Great course by Scott Moss & Frontend Masters
 
 - the generic crud controller allows for passing in any model. no need for a controller per model.
+- great tests written with jest
